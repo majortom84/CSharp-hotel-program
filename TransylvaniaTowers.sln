@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransylvaniaTowers", "testPanels\TransylvaniaTowers.csproj", "{D63C10BD-B46D-4DAA-A00B-0760D9ADD17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63C10BD-B46D-4DAA-A00B-0760D9ADD17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63C10BD-B46D-4DAA-A00B-0760D9ADD17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63C10BD-B46D-4DAA-A00B-0760D9ADD17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63C10BD-B46D-4DAA-A00B-0760D9ADD17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

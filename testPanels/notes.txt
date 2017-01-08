@@ -1,0 +1,11 @@
+﻿Debug text field text change search
+add reservation list to each customer
+change reservation number textbox to drop down (customers can have multiple)
+add database
+data bind controls
+update button to open update window for (name, address, ect...)
+code help menu (windows)
+more generics
+chage temp reser methods name and temp res to reg. res
+turn redundat code into methods
+get range of days in reservation to add to payment (day * subtotal) 
