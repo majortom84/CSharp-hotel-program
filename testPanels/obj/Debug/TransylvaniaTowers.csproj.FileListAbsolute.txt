@@ -51,3 +51,6 @@ C:\Users\Thomas\Desktop\updated 4.17.14 work in progress\testPanels - rev 3 10.2
 C:\Users\Thomas\Desktop\updated 4.17.14 work in progress\testPanels - rev 3 10.24.16\testPanels\bin\Debug\TransylvaniaTowers.exe
 C:\Users\Thomas\Desktop\updated 4.17.14 work in progress\testPanels - rev 3 10.24.16\testPanels\bin\Debug\TransylvaniaTowers.pdb
 C:\Users\Thomas\Desktop\updated 4.17.14 work in progress\testPanels - rev 3 10.24.16\testPanels\bin\Debug\WatermarkTextbox.pdb
+C:\Users\Thomas\Documents\GitHub\CSharp-hotel-program\testPanels\bin\Debug\TransylvaniaTowers.exe.config
+C:\Users\Thomas\Documents\GitHub\CSharp-hotel-program\testPanels\obj\Debug\TransylvaniaTowers.exe
+C:\Users\Thomas\Documents\GitHub\CSharp-hotel-program\testPanels\obj\Debug\TransylvaniaTowers.pdb
